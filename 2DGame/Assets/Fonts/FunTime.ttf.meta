@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 91a0ef0e717a1ff4fa617fc77a4ae55f
+timeCreated: 1517059933
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FunTime
+  fontNames:
+  - FunTime
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

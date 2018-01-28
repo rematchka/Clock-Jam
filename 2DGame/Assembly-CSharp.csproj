@@ -51,6 +51,30 @@
      <Compile Include="Assets\Scripts\PlanetController.cs" />
      <Compile Include="Assets\Scripts\PlanetMovement.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\SelectOnInput.cs" />
+     <Compile Include="Assets\Scripts\ZomieDies.cs" />
+     <Compile Include="Assets\Scripts\clickss.cs" />
+     <Compile Include="Assets\Scripts\gamewin.cs" />
+     <Compile Include="Assets\Scripts\leavee.cs" />
+     <Compile Include="Assets\Scripts\light.cs" />
+     <Compile Include="Assets\Scripts\loadScene.cs" />
+     <Compile Include="Assets\Scripts\playerhealth.cs" />
+     <Compile Include="Assets\Scripts\playertrack.cs" />
+     <Compile Include="Assets\Scripts\shooting.cs" />
+     <Compile Include="Assets\Scripts\sound.cs" />
+     <Compile Include="Assets\Scripts\swipesound.cs" />
+     <Compile Include="Assets\Scripts\tokill.cs" />
+     <Compile Include="Assets\UI\Scripts\ActiveStateToggler.cs" />
+     <Compile Include="Assets\UI\Scripts\ApplicationManager.cs" />
+     <Compile Include="Assets\UI\Scripts\ChangeColor.cs" />
+     <Compile Include="Assets\UI\Scripts\DragMe.cs" />
+     <Compile Include="Assets\UI\Scripts\DragPanel.cs" />
+     <Compile Include="Assets\UI\Scripts\DropMe.cs" />
+     <Compile Include="Assets\UI\Scripts\PanelManager.cs" />
+     <Compile Include="Assets\UI\Scripts\ResizePanel.cs" />
+     <Compile Include="Assets\UI\Scripts\ScrollDetailTexture.cs" />
+     <Compile Include="Assets\UI\Scripts\ShowSliderValue.cs" />
+     <Compile Include="Assets\UI\Scripts\TiltWindow.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

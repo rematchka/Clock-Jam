@@ -17,17 +17,17 @@ public class PlanetController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         //transform.position -= new Vector2(0, 1, 0) * Time.deltaTime;
-        counter += Time.deltaTime;
+       /* counter += Time.deltaTime;
         if (counter > 3)
         {
             Spawn();
             counter = 0.0f;
-        }
+        }*/
     }
 
-    void Spawn()
-    {
-        pos = new Vector3(Random.Range(minPos, maxPos), 2, 0);
-        Instantiate(planet, pos, Quaternion.identity);
-    }
+   // void Spawn()
+    //{
+      //  pos = new Vector3(Random.Range(minPos, maxPos), 2, 0);
+       // Instantiate(planet, pos, Quaternion.identity);
+    //}
 }
